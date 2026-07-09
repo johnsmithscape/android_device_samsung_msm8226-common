@@ -1,1 +1,0 @@
-allow untrusted_app mnt_media_rw_file:dir getattr;
